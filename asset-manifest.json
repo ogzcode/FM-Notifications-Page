@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FM-Notifications-Page/static/css/main.f908c8a3.css",
+    "main.js": "/FM-Notifications-Page/static/js/main.01c29676.js",
+    "static/js/787.9ef285df.chunk.js": "/FM-Notifications-Page/static/js/787.9ef285df.chunk.js",
+    "static/media/avatar-rizky-hasanuddin.webp": "/FM-Notifications-Page/static/media/avatar-rizky-hasanuddin.2c9e9a5d4982e8f1b614.webp",
+    "static/media/avatar-jacob-thompson.webp": "/FM-Notifications-Page/static/media/avatar-jacob-thompson.ef1880754355ebe956bb.webp",
+    "static/media/avatar-nathan-peterson.webp": "/FM-Notifications-Page/static/media/avatar-nathan-peterson.03727540c8ed8341d745.webp",
+    "static/media/avatar-anna-kim.webp": "/FM-Notifications-Page/static/media/avatar-anna-kim.14242399b99facbf45c7.webp",
+    "static/media/avatar-mark-webber.webp": "/FM-Notifications-Page/static/media/avatar-mark-webber.e3e820b976dfaf7f762a.webp",
+    "static/media/image-chess.webp": "/FM-Notifications-Page/static/media/image-chess.b06cd5b36869c9a4784e.webp",
+    "static/media/avatar-kimberly-smith.webp": "/FM-Notifications-Page/static/media/avatar-kimberly-smith.00520dc2b2f8e585aac5.webp",
+    "static/media/avatar-angela-gray.webp": "/FM-Notifications-Page/static/media/avatar-angela-gray.be3397e8fa98e1cac926.webp",
+    "index.html": "/FM-Notifications-Page/index.html",
+    "main.f908c8a3.css.map": "/FM-Notifications-Page/static/css/main.f908c8a3.css.map",
+    "main.01c29676.js.map": "/FM-Notifications-Page/static/js/main.01c29676.js.map",
+    "787.9ef285df.chunk.js.map": "/FM-Notifications-Page/static/js/787.9ef285df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f908c8a3.css",
+    "static/js/main.01c29676.js"
+  ]
+}
